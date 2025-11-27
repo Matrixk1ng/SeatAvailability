@@ -8,8 +8,8 @@ from selenium.webdriver.common.keys import Keys
 options = webdriver.ChromeOptions()
 
 driver = webdriver.Chrome(options=options)
-UTD_NETID="oxa220017"
-UTD_PASSWORD="Matrixking86362!"
+UTD_NETID=""
+UTD_PASSWORD=""
 
 try:
     print("Navigating to Galaxy...")
